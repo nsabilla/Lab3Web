@@ -31,7 +31,7 @@ Melihat isi tabel pada shell XAMPP
 
 Ini merupakan database baru yang saya buat, jika dilihat dari shell maka seperti ini :
 
-![database_baru](img/gambar7.png)
+![database_baru](img/gambar21.png)
 
 ## 5. Membuat Program CRUD
 Seperti biasa membuat folder pada htdocs dengan nama folder lab3_php_database.
